@@ -96,6 +96,7 @@
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling / Video Upscaling / Denoising / Self-Hosted
 * [Waifu2x](https://www.waifu2x.net/) - Anime Image Upscaling / Online
 * [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Self-Hosted
+* [imagerefiner](https://imagerefiner.art/tools/enhance) - Enhance and Upscale Images Online
 
 ***
 
@@ -121,6 +122,7 @@
 * [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes / [GitHub](https://github.com/Tw1ddle/geometrize)
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
 * [Party-ify](https://nathanielw.github.io/party-ify/) - Party-ify Images
+* [visifly](https://visifly.app/) - Text to Video, Image to Video
 
 ***
 
